@@ -1,0 +1,6 @@
+revision: latest
+name: buildkitd
+namespace: buildkitd
+deployment:
+  replicas: 1
+imagePullPolicy: IfNotPresent
